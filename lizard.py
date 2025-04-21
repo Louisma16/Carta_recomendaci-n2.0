@@ -13,6 +13,7 @@ from PIL import Image, ImageTk
 import os
 import webbrowser
 
+#prueba de commit
 # Ventana principal (menú)
 class VentanaMenu(tk.Toplevel):
     def __init__(self, parent):
